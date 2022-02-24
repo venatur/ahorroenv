@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Jan  3 14:36:11 2022
-
+# script para generar numero aleatorio dentro de 365 dias y lo almacena en txt
 @author: iscca
 """
 
